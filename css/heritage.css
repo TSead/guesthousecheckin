@@ -1,0 +1,231 @@
+/* Heritage/Artisan design system — checkinstolac.com */
+
+:root {
+  --h-cream:   #F5EFE4;
+  --h-charcoal:#2A2825;
+  --h-stone:   #8B7355;
+  --h-gold:    #BF925B;
+  --h-dark:    #1A1714;
+}
+
+/* ---------- Typography ---------- */
+.heading-section h2,
+.ftco-footer .ftco-heading-2,
+.heritage-card__heading,
+.heritage-quote__text {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.heading-section h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--h-charcoal);
+}
+
+/* ---------- Palette overrides ---------- */
+body {
+  color: var(--h-charcoal);
+}
+
+.subheading {
+  color: var(--h-gold);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+/* ---------- Comparison card section ---------- */
+.heritage-comparison {
+  background-color: var(--h-cream);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.heritage-card {
+  border: 1px solid var(--h-stone);
+  border-top: 4px solid var(--h-gold);
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 2px;
+  height: 100%;
+}
+
+.heritage-card--apt {
+  border-top-color: var(--h-gold);
+}
+
+.heritage-card--room {
+  border-top-color: var(--h-stone);
+}
+
+.heritage-card__heading {
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: var(--h-charcoal);
+  margin-bottom: 1.25rem;
+}
+
+.heritage-card__features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  border-top: 1px solid rgba(139, 115, 85, 0.25);
+  padding-top: 1rem;
+}
+
+.heritage-card__features li {
+  padding: 0.45rem 0;
+  border-bottom: 1px solid rgba(139, 115, 85, 0.15);
+  font-size: 0.95rem;
+  color: var(--h-charcoal);
+}
+
+.heritage-card__features li::before {
+  content: '—';
+  color: var(--h-gold);
+  margin-right: 0.6em;
+  font-weight: 600;
+}
+
+.heritage-card__price {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--h-gold);
+  margin-bottom: 0;
+}
+
+.heritage-food-note {
+  font-size: 0.88rem;
+  color: var(--h-stone);
+  font-style: italic;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+/* ---------- Guest Voices (testimonials) ---------- */
+.heritage-voices {
+  background-color: var(--h-dark);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.heritage-voices .subheading {
+  color: var(--h-gold);
+}
+
+.heritage-voices .heading-section h2 {
+  color: var(--h-cream);
+}
+
+.heritage-quote {
+  margin: 0;
+  padding: 0;
+}
+
+.heritage-quote__text {
+  font-size: 1.45rem;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.55;
+  color: var(--h-cream);
+  margin-bottom: 1rem;
+}
+
+.heritage-quote__author {
+  font-size: 0.85rem;
+  color: var(--h-stone);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.heritage-quote__location {
+  color: var(--h-gold);
+}
+
+/* ---------- Footer ---------- */
+.ftco-footer {
+  background-color: var(--h-charcoal);
+  color: rgba(245, 239, 228, 0.7);
+}
+
+.ftco-footer .ftco-heading-2 {
+  color: var(--h-cream);
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.ftco-footer a {
+  color: rgba(245, 239, 228, 0.7);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.ftco-footer a:hover {
+  color: var(--h-gold);
+  text-decoration: none;
+}
+
+.ftco-footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ftco-footer ul li {
+  padding: 0.3rem 0;
+  font-size: 0.92rem;
+}
+
+.ftco-footer .fa {
+  color: var(--h-gold);
+  margin-right: 0.5em;
+}
+
+/* ---------- Navbar accent ---------- */
+.ftco_navbar .navbar-brand {
+  color: var(--h-cream);
+}
+
+/* ---------- Primary button ---------- */
+.btn-primary,
+.btn-outline-primary {
+  border-color: var(--h-gold);
+  color: var(--h-gold);
+  background: transparent;
+  border-radius: 0;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  padding: 0.6rem 1.8rem;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+  background: var(--h-gold);
+  color: var(--h-dark);
+  border-color: var(--h-gold);
+}
+
+/* ---------- Gallery grid ---------- */
+.project {
+  overflow: hidden;
+  line-height: 0;
+  border: 3px solid var(--h-cream);
+}
+
+.project img {
+  width: 100%;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.project:hover img {
+  transform: scale(1.04);
+}
