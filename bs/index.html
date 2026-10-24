@@ -41,6 +41,36 @@
 	<link rel="stylesheet" href="../css/style.css">
 	<link rel="stylesheet" href="../css/heritage.css">
 
+	<style>
+		/* Fino podešavanje navigacije na mobilnim uređajima */
+		@media (max-width: 991.98px) {
+			#ftco-navbar .container {
+				display: flex !important;
+				flex-direction: row !important;
+				align-items: center !important;
+				justify-content: space-between !important;
+				flex-wrap: nowrap !important;
+			}
+			#ftco-navbar .navbar-brand {
+				font-size: 1.15rem;
+				display: flex;
+				align-items: center;
+				margin-right: 0;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			#ftco-navbar .navbar-brand img {
+				width: 36px;
+				height: 36px;
+				margin-right: 8px;
+			}
+			#ftco-navbar .lang-switch img {
+				width: 24px;
+				height: 24px;
+			}
+		}
+	</style>
+
 	<!-- Strukturirani podaci (JSON-LD) za Google i AI pretraživače -->
 	<script type="application/ld+json">
 	{
@@ -104,7 +134,7 @@
 					<li class="nav-item active"><a href="index.html" class="nav-link">Naslovna</a></li>
 				</ul>
 			</div>
-			<a class="navbar-brand" href="../index.html" title="Switch to English language">
+			<a class="navbar-brand lang-switch m-0 p-0" href="../index.html" title="Switch to English language">
 				<img src="../images/iconEnglish.png" width="32" height="32" alt="English language">
 			</a>
 		</div>
@@ -118,7 +148,7 @@
 				<div class="col-lg-12 ftco-animate d-flex align-items-center">
 					<div class="text text-center">
 						<span class="subheading text-uppercase letter-spacing-1">Hercegovina · Bosna i Hercegovina</span>
-						<h1 class="mb-3 text-white font-weight-bold" style="font-size: 2.3rem;">Guesthouse Check In - Apartmani i sobe u Stocu</h1>
+						<h1 class="mb-3 text-white font-weight-bold" style="font-size: 2.3rem;">Guesthouse Check In — Apartmani i sobe u Stocu</h1>
 						<p class="text-white-50 mb-4">Udoban smještaj s privatnim kuhinjama, tihim sobama i besplatnim osiguranim parkingom u garaži u centru Stoca.</p>
 						<div class="d-flex flex-wrap justify-content-center gap-2">
 							<a href="https://wa.me/38761475745?text=Pozdrav,%20zanima%20me%20raspolo%C5%BEivost%20smje%C5%A1taja%20u%20Guesthouse%20Check%20In%20Stolac" target="_blank" rel="noopener" class="btn btn-success px-4 py-3 m-1 shadow-sm font-weight-bold">
@@ -255,7 +285,7 @@
 					<div class="bg-white p-4 text-center rounded border h-100">
 						<i class="fa fa-map-marker text-primary fa-2x mb-3"></i>
 						<h3 class="h6 font-weight-bold">Lokacija i centar</h3>
-						<p class="small text-muted mb-0">Samo par minuta laganog hoda do centra Stoca, rijeke Bregave, restorana i trgovina.</p>
+						<p class="small text-muted mb-0">Samo 5 minuta laganog hoda do centra Stoca, rijeke Bregave, restorana i trgovina.</p>
 					</div>
 				</div>
 			</div>
