@@ -1,0 +1,210 @@
+{
+  "en": {
+    "page_title": "Guesthouse Check In Stolac — Apartments & Rooms in Stolac, Bosnia",
+    "meta_description": "Check In Stolac — guesthouse, hotel & apartments in Stolac, Herzegovina, Bosnia. Comfortable rooms from €30/night. Book direct or via Booking.com. Heart of the Balkans.",
+    "og_locale": "en_GB",
+    "og_url": "https://checkinstolac.com/",
+    "og_title": "Check In Stolac — Guesthouse, Hotel & Apartments",
+    "og_description": "Check In Stolac — guesthouse, hotel & apartments in Stolac, Herzegovina, Bosnia. Comfortable rooms from €30/night. Book direct or via Booking.com. Heart of the Balkans.",
+    "canonical": "https://checkinstolac.com/",
+    "hreflang_self": "en",
+    "hreflang_self_href": "https://checkinstolac.com/",
+    "hreflang_other": "bs",
+    "hreflang_other_href": "https://checkinstolac.com/bs/",
+    "jsonld_url": "https://checkinstolac.com/",
+    "jsonld_description": "Guesthouse, hotel and apartments in Stolac, Herzegovina, Bosnia and Herzegovina. Comfortable rooms and apartments from €30/night in the heart of the Balkans.",
+    "jsonld_keywords": "guesthouse, hotel, apartments, rooms, motel, Stolac, Herzegovina, Bosnia, Balkans, accommodation",
+
+    "root_prefix": "",
+    "home_href": "index.html",
+    "lang_switch_href": "bs/index.html",
+    "lang_switch_icon": "images/iconBosnaiHercegovina.png",
+    "lang_switch_alt": "Bosanski",
+
+    "hero_hashtags": "Stolac · Bosnia Herzegovina",
+    "hero_heading": "High-End Hospitality Services",
+    "hero_book_now": "Book now",
+
+    "welcome_apartments_label": "Apartments",
+    "welcome_rooms_label": "Rooms",
+    "welcome_body": "Welcome to Guesthouse Check In Stolac, your premier choice for accommodation in Stolac. Our property features convenient amenities, including a shared kitchen and lounge, complemented by seamless access to free WiFi throughout. Enjoy the added convenience of free private parking, and for those eager to explore the surrounding area, we provide car hire services. Experience comfort and convenience at Guesthouse Check In Stolac.",
+    "welcome_book_cta": "Booking.com reservation",
+
+    "comparison_heading": "Apartments & Rooms",
+    "comparison_subheading": "Choose your stay",
+    "comparison_apt_heading": "Apartments",
+    "comparison_apt_features": [
+      "Private kitchen",
+      "Air conditioning",
+      "Private bathroom",
+      "Free WiFi",
+      "Free parking"
+    ],
+    "comparison_apt_price": "From €45 / night",
+    "comparison_room_heading": "Rooms",
+    "comparison_room_features": [
+      "Shared kitchen access",
+      "Air conditioning",
+      "Private bathroom",
+      "Free WiFi",
+      "Free parking"
+    ],
+    "comparison_room_price": "From €30 / night",
+    "comparison_food_note": "Breakfast is not included. Apartments have a private kitchen; rooms share a fully equipped common kitchen.",
+    "comparison_book_cta": "Reserve on Booking.com",
+    "price_range": "€30–€80",
+
+    "gallery_subheading": "Gallery",
+    "gallery_heading": "Our Gallery",
+    "gallery_tagline": "A glimpse of our apartments and rooms",
+
+    "stolac_subheading": "Stolac, Bosnia & Herzegovina",
+    "stolac_heading": "Discover Stolac",
+    "stolac_body": "Located in the Herzegovina-Neretva Canton of the Federation of Bosnia and Herzegovina, Stolac is a captivating town nestled in the picturesque region of Herzegovina. Positioned along the tourist route that traverses Herzegovina, it serves as a vital link connecting the mountainous Bosnian hinterland with the coastal regions of Bosnia and Herzegovina, Dubrovnik, and Montenegro. Situated in the Herzegovina Humina area, Stolac benefits from a strategic location on a route spanning from Sarajevo through Mostar, Stolac, Ljubinje, and Trebinje — reaching Dubrovnik in under 4 hours. Thanks to its rich hunting grounds and other natural advantages, Stolac and its surroundings have been inhabited since ancient times by prehistoric communities, the Illyrians, Romans, and Slavs, all of whom left behind a wealth of anthropological evidence.",
+    "stolac_landmarks": [
+      { "title": "Old Town",    "subtitle": "Vidoški",                         "img": "images/stari-grad.jpg" },
+      { "title": "Ancient city","subtitle": "Daorson",                         "img": "images/daorson.jpg" },
+      { "title": "Necropolis", "subtitle": "Radimlja",                         "img": "images/radimlja.jpg" },
+      { "title": "Ancient cave","subtitle": "Badanj",                          "img": "images/badanj.jpg" },
+      { "title": "Old bridge",  "subtitle": "Inat ćuprija",               "img": "images/ćurpija.jpg" },
+      { "title": "Mosque",      "subtitle": "Sultan Selim (Careva džamija)", "img": "images/careva-dzamija.jpg" },
+      { "title": "Church",      "subtitle": "Crkva svetog Ilije",              "img": "images/crkva.jpg" },
+      { "title": "Tekke",       "subtitle": "Stolačka tekija",            "img": "images/tekija.jpg" }
+    ],
+
+    "voices_heading": "Guest Voices",
+    "voices_subheading": "What our guests say",
+    "voices": [
+      {
+        "quote": "Stolac surprised us completely. We arrived expecting a transit stop on the way to Dubrovnik and ended up staying an extra night. The room was spotless, the host genuinely welcoming.",
+        "author": "Nicolas",
+        "location": "France"
+      },
+      {
+        "quote": "The apartment is well-equipped and quiet at night — everything you need for a comfortable stay. Walking distance to the old town and the bridge. We will come back.",
+        "author": "Carina",
+        "location": "United Kingdom"
+      },
+      {
+        "quote": "The hosts were kind and helpful, and the town itself is absolutely worth the detour. One of the most beautiful places in the whole Balkans.",
+        "author": "Marija",
+        "location": "Germany"
+      }
+    ],
+
+    "findus_heading": "Find Us",
+
+    "footer_connect": "Connect with Us on",
+    "footer_questions": "Got Questions? Ask Away!",
+    "footer_address": "Kneza Domagoja bb, 88360 Stolac, Bosnia and Herzegovina",
+    "footer_phone": "+387 61 475 745",
+    "footer_email": "checkinstolac [at] gmail.com",
+    "footer_copyright": "Guesthouse Check In Stolac",
+    "nav_home": "Home",
+    "footer_rights": "All rights reserved"
+  },
+  "bs": {
+    "page_title": "Guesthouse Check In Stolac — Apartmani i sobe u Stocu, Bosna",
+    "meta_description": "Check In Stolac — pansion, hotel i apartmani u Stocu, Hercegovina, Bosna i Hercegovina. Udobne sobe od 30 € po noći. Rezervišite direktno ili putem Booking.com.",
+    "og_locale": "bs_BA",
+    "og_url": "https://checkinstolac.com/bs/",
+    "og_title": "Check In Stolac — Pansion, Hotel i Apartmani",
+    "og_description": "Check In Stolac — pansion, hotel i apartmani u Stocu, Hercegovina, Bosna i Hercegovina. Udobne sobe od 30 € po noći. Rezervišite direktno ili putem Booking.com.",
+    "canonical": "https://checkinstolac.com/bs/",
+    "hreflang_self": "bs",
+    "hreflang_self_href": "https://checkinstolac.com/bs/",
+    "hreflang_other": "en",
+    "hreflang_other_href": "https://checkinstolac.com/",
+    "jsonld_url": "https://checkinstolac.com/bs/",
+    "jsonld_description": "Pansion, hotel i apartmani u Stocu, Hercegovina, Bosna i Hercegovina. Udobne sobe i apartmani od €30/noći u srcu Balkana.",
+    "jsonld_keywords": "pansion, hotel, apartmani, sobe, Stolac, Hercegovina, Bosna i Hercegovina, Balkan, smještaj",
+
+    "root_prefix": "../",
+    "home_href": "index.html",
+    "lang_switch_href": "../index.html",
+    "lang_switch_icon": "images/iconEnglish.png",
+    "lang_switch_alt": "English",
+
+    "hero_hashtags": "Stolac · Bosna i Hercegovina",
+    "hero_heading": "Harmonija Ugostiteljstva",
+    "hero_book_now": "Rezervišite sada",
+
+    "welcome_apartments_label": "Apartmani",
+    "welcome_rooms_label": "Sobe",
+    "welcome_body": "Dobrodošli u Guesthouse Check In Stolac, vaš najbolji izbor za smještaj u Stocu. Naš objekt nudi praktične pogodnosti, uključujući zajedničku kuhinju i dnevni boravak, upotpunjene besprijekornim pristupom besplatnom WiFi-ju u cijelom objektu. Uživajte u dodatnoj pogodnosti besplatnog privatnog parkirališta, a za one željne istraživanja okolice nudimo usluge najma automobila. Iskusite udobnost i pogodnosti u Guesthouse Check In Stolac.",
+    "welcome_book_cta": "Booking.com rezervacija",
+
+    "comparison_heading": "Apartmani i sobe",
+    "comparison_subheading": "Odaberite vaš smještaj",
+    "comparison_apt_heading": "Apartmani",
+    "comparison_apt_features": [
+      "Privatna kuhinja",
+      "Klima uređaj",
+      "Privatna kupaonica",
+      "Besplatan WiFi",
+      "Besplatan parking"
+    ],
+    "comparison_apt_price": "Od 45 € / noć",
+    "comparison_room_heading": "Sobe",
+    "comparison_room_features": [
+      "Pristup zajedničkoj kuhinji",
+      "Klima uređaj",
+      "Privatna kupaonica",
+      "Besplatan WiFi",
+      "Besplatan parking"
+    ],
+    "comparison_room_price": "Od 30 € / noć",
+    "comparison_food_note": "Doručak nije uključen. Apartmani imaju privatnu kuhinju; sobe dijele potpuno opremljenu zajedničku kuhinju.",
+    "comparison_book_cta": "Rezervišite na Booking.com",
+    "price_range": "€30–€80",
+
+    "gallery_subheading": "Galerija",
+    "gallery_heading": "Galerija",
+    "gallery_tagline": "Istražite djelić naših izuzetnih apartmana i soba",
+
+    "stolac_subheading": "Stolac, Bosna & Hercegovina",
+    "stolac_heading": "Posjetite Stolac",
+    "stolac_body": "Smješten u Hercegovačko-neretvanskom kantonu Federacije Bosne i Hercegovine, Stolac je zadivljujući grad smješten u slikovitoj regiji Hercegovine. Postavljen duž turističke rute koja prolazi kroz Hercegovinu, služi kao vitalna poveznica koja spaja planinsko bosansko zaleđe s primorskim regijama Bosne i Hercegovine, Dubrovnika i Crne Gore. Smješten u području Hercegovačke Humine, Stolac ima prednosti strateškog položaja na ruti od Sarajeva preko Mostara, Stoca, Ljubinja i Trebinja — putovanje do Dubrovnika traje manje od 4 sata. Zahvaljujući bogatim lovištima i prirodnim ljepotama, Stolac i njegova okolica bila je nastanjena od pretpovijesnih zajednica, Ilira, Rimljana i Slavena, koji su za sobom ostavili obilje antropoloških dokaza.",
+    "stolac_landmarks": [
+      { "title": "Stari grad",    "subtitle": "Vidоški",                        "img": "images/stari-grad.jpg" },
+      { "title": "Drevni grad",   "subtitle": "Daorson",                            "img": "images/daorson.jpg" },
+      { "title": "Nekropola",     "subtitle": "Radimlja",                           "img": "images/radimlja.jpg" },
+      { "title": "Drevna pećina", "subtitle": "Badanj",                        "img": "images/badanj.jpg" },
+      { "title": "Stari most",    "subtitle": "Inat ćuprija",                  "img": "images/ćurpija.jpg" },
+      { "title": "Džamija",  "subtitle": "Sultan Selim (Careva džamija)", "img": "images/careva-dzamija.jpg" },
+      { "title": "Crkva",         "subtitle": "Crkva svetog Ilije",                 "img": "images/crkva.jpg" },
+      { "title": "Tekija",        "subtitle": "Stolačka tekija",               "img": "images/tekija.jpg" }
+    ],
+
+    "voices_heading": "Glas gostiju",
+    "voices_subheading": "Što kažu naši gosti",
+    "voices": [
+      {
+        "quote": "Stolac nas je potpuno iznenadio. Stigli smo kao tranzitna stanica na putu za Dubrovnik i na kraju ostali ekstra noć. Soba je bila besprijekorna, domaćin iskreno dobrodošao.",
+        "author": "Nicolas",
+        "location": "Francuska"
+      },
+      {
+        "quote": "Apartman je dobro opremljen i tih noću — sve što vam treba za ugodan boravak. Pješačka udaljenost do starog grada i mosta. Svakako se vraćamo.",
+        "author": "Carina",
+        "location": "Ujedinjeno Kraljevstvo"
+      },
+      {
+        "quote": "Domaćini su bili ljubazni i od pomoći, a sam grad apsolutno vrijedi zaobilaznice. Jedno od najljepših mjesta na cijelom Balkanu.",
+        "author": "Marija",
+        "location": "Njemačka"
+      }
+    ],
+
+    "findus_heading": "Pronađite nas",
+
+    "footer_connect": "Kontaktirajte nas na",
+    "footer_questions": "Imate li kakvih pitanja? Slobodno pitajte!",
+    "footer_address": "Kneza Domagoja bb, 88360 Stolac, Bosna i Hercegovina",
+    "footer_phone": "+387 61 475 745",
+    "footer_email": "checkinstolac [at] gmail.com",
+    "footer_copyright": "Guesthouse Check In Stolac",
+    "nav_home": "Naslovna",
+    "footer_rights": "Sva prava pridržana"
+  }
+}
